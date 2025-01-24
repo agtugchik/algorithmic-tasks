@@ -1,4 +1,4 @@
-import deepEqual = require("deep-equal");
+import deepEqual from "deep-equal";
 
 const bubbleSort = (arr: number[]) => {
   let anotherSort = true;
