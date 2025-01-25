@@ -6,3 +6,4 @@ import "./quick-sort";
 import "./linked-list";
 import "./the-same-time";
 import "./avia-tickets";
+import "./number-swap";
